@@ -1,6 +1,6 @@
 {
   "name": "checkbox-master",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Checkbox Master allows one or more checkbox elements to excercise control over sibling checkbox-type inputs.",
   "main": "dist/checkbox-master.js",
   "scripts": {
